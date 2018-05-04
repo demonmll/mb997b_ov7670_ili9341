@@ -1,0 +1,19 @@
+ili9341
+
+
+pe3 - pe10:data
+pe11: rs
+pe12:wr
+pe13:rd
+pe14:cs
+pe15rest
+
+
+ov7670
+pd0123 891011 :data
+pb4\5:sccb
+wrst:pb13
+rrst:pb8
+oe:pb11
+wen:pb12
+vs:pb7
